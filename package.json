@@ -12,6 +12,9 @@
   "dependencies": {
     "@cloudinary/react": "^1.14.1",
     "@cloudinary/url-gen": "^1.21.0",
+    "@headlessui/react": "^2.2.2",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.1.4",
     "axios": "^1.8.4",
     "cloudinary": "^1.41.3",
     "dotenv": "^16.5.0",
@@ -36,7 +39,20 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.4",
+    "tailwindcss": "^3.4.17",
     "vite": "^6.3.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raphaelle-Goulong/Projet-air-caraibe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raphaelle-Goulong/Projet-air-caraibe/issues"
+  },
+  "homepage": "https://github.com/Raphaelle-Goulong/Projet-air-caraibe#readme"
 }

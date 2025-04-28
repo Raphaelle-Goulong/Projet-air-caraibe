@@ -2,3 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
+header {
+    height: 300px;
+    max-width: 100%;
+    background-image: url(https://res.cloudinary.com/raph22/image/upload/v1745082440/hugh-whyte-SBOHLtENzEY-unsplash_1_t3v8f7.webp);
+    font-family: 'Inter', sans-serif;
+    background-size: cover; 
+    /* background-position: center;  */
+    
+  
+}
+
+nav {
+    background-color: #eef3f9;
+    /* background-color: orangered; */
+    /* color: #004590; */
+    /* color: red; */
+    font-family: 'Satoshi', sans-serif;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    gap: 10px;
+}
+
